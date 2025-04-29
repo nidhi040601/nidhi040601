@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 ### 🌟 About Me
-I'm a passionate **Backend Developer** with over 2 years of professional experience in software development.  
+I'm a passionate **Software Engineer** with over 2 years of professional experience in software development.  
 My journey so far has been about continuous learning, solving real-world problems, and creating reliable backend systems. I've worked with startups and mid-sized companies, and I'm currently expanding my skill set through learning new technologies and creating personal projects.  
 
 ### 💼 What I Bring to the Table
