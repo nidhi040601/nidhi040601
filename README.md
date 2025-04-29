@@ -6,7 +6,7 @@ My journey so far has been about continuous learning, solving real-world problem
 
 ### 💼 What I Bring to the Table
 🚀 Strong expertise in **Node.js**, **TypeScript**, and **backend architecture**.  
-🔧 Skilled at designing and developing **RESTful APIs**, microservices, and cloud-native solutions.  
+🔧 Skilled at designing and developing **RESTful APIs**, microservices, and **cloud-native solutions** and dynamic **front-end interfaces** with React and Next.js.  
 🤝 Hands-on experience interacting with **clients**, understanding their needs, and **delivering solutions in Agile**, **collaborative team setups**.  
 🧹 Advocate for **clean code**, **SOLID principles**, and scalable system design.  
 📚 Always excited to learn **new technologies** and keep up with best practices.  
